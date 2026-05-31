@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Data Cleaning & Visualization Project
 
 ## Project Overview
@@ -45,3 +46,6 @@ Titanic Dataset
 ## Conclusion
 
 This project demonstrates practical data cleaning and visualization skills using Python and Data Science libraries.
+=======
+# Trinex-Titanic-Data-Cleaning-Project
+>>>>>>> 5c9013458ac174539c0a7b8ee25659e90600755b
